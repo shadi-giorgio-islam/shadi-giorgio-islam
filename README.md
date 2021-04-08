@@ -12,7 +12,7 @@ Sono pronto ad affrontare nuove sfide e fare nella vita ci√≤ che mi piace di pi√
 * Librerie Javascript:
   * <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="30" height="30" /> jQuery
   * <img src="https://img.icons8.com/color/452/vue-js.png" width="30" height="30" /> Vue.js
-* <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="30" height="30" /> MySQL
+* <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="40" height="30" /> MySQL
 * <img src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" width="30" height="30" /> PHP
 * Framework PHP:
   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30" height="30" /> Laravel
