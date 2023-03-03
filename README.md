@@ -1,6 +1,6 @@
 # Giorgio Shadi Islam
 ## About me
-Ciao sono Giorgio e sono un Full Stack Developer. Nasco come sviluppatore Java, approfondendo in particolare l' architettura a microservizi. Oltre al back end, ho cominciato a interessarmi pure al front end con l' obbiettivo di completare sempre di più la mia figura di full stack.
+Ciao sono Giorgio e sono un Full Stack Developer. Nasco come sviluppatore Java, approfondendo in particolare l' architettura a microservizi. Oltre al back-end, ho cominciato ad interessarmi pure al front-end con l' obbiettivo di completare sempre di più la mia figura di full stack.
 Nella vita sono sempre pronto ad affrontare nuove sfide e continuare a fare nella vita ciò che mi piace di più cioè programmare.
 ## Il mio Stack tecnologico
 * <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="30" height="30" /> HTML5
@@ -12,7 +12,7 @@ Nella vita sono sempre pronto ad affrontare nuove sfide e continuare a fare nell
 * **Framework Javascript:**
   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30" height="30" /> React JS
 * <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" width="40" height="30" /> MySQL
-* <img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="30" height="30" /> JAVA
+* <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30" height="30" /> JAVA
 * **Framework JAVA:**
   * <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" width="30" height="30" /> Quarkus
 ## Contatti
