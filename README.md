@@ -17,4 +17,4 @@ Sono pronto ad affrontare nuove sfide e fare nella vita ci√≤ che mi piace di pi√
 * **Framework PHP:**
   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="30" height="30" /> Laravel
 ## Contatti
-  * <img src="https://lh3.googleusercontent.com/proxy/_jBtnP8KuEGqjZlu7rU66jxpuMj_HfSGejFsYOdtzSvttLxJt8s4k6yDz5LETkMutW_4vfEq7hFJ6wnPTUEZZEgd1kanqgNdqSIicYPdtujV6DIW9J98BXCbrjmTS6hNQVk" width="30" height="30" /> [Linkedin](http://linkedin.com/in/giorgio-shadi-islam-74aa0320a)
+  * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" /> [Linkedin](http://linkedin.com/in/giorgio-shadi-islam-74aa0320a)
